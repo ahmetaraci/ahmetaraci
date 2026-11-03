@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Muhammet Ahmet Araci - Software Engineer</title>
+<desc id="desc">A personalized software engineer banner with a geospatial contour motif and an orbital grid.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#0A1020"/><stop offset="100%" stop-color="#121B34"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0%" stop-color="#0D5D80" stop-opacity=".65"/><stop offset="100%" stop-color="#0D5D80" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop offset="0%" stop-color="#69E8D4"/><stop offset="100%" stop-color="#9B8BFF"/></linearGradient>
+  <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#48607D" stroke-opacity=".19" stroke-width="1"/></pattern>
+  <clipPath id="frame"><rect width="1198" height="378" x="1" y="1" rx="25"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1198" height="378" rx="25" fill="url(#bg)" stroke="#233755" stroke-width="2"/>
+<g clip-path="url(#frame)">
+  <rect x="670" y="0" width="530" height="380" fill="url(#grid)"/>
+  <circle cx="970" cy="192" r="263" fill="url(#glow)"/>
+  <path d="M0 350 C250 325 430 402 690 340 S1060 292 1230 336" fill="none" stroke="#69E8D4" stroke-opacity=".17" stroke-width="2"/>
+  <path d="M0 363 C250 338 430 415 690 353 S1060 305 1230 349" fill="none" stroke="#9B8BFF" stroke-opacity=".16" stroke-width="2"/>
+  <path d="M0 375 C250 350 430 427 690 365 S1060 317 1230 361" fill="none" stroke="#69E8D4" stroke-opacity=".12" stroke-width="2"/>
+  <circle cx="963" cy="187" r="145" fill="none" stroke="#55DACC" stroke-opacity=".28" stroke-width="1"/>
+  <circle cx="963" cy="187" r="114" fill="none" stroke="#55DACC" stroke-opacity=".58" stroke-width="1.5" stroke-dasharray="5 9"/>
+  <circle cx="963" cy="187" r="84" fill="none" stroke="#487B93" stroke-width="1.5"/>
+  <ellipse cx="963" cy="187" rx="145" ry="47" fill="none" stroke="#487B93" stroke-opacity=".56" stroke-width="1.5" transform="rotate(-31 963 187)"/>
+  <ellipse cx="963" cy="187" rx="145" ry="47" fill="none" stroke="#487B93" stroke-opacity=".3" stroke-width="1.5" transform="rotate(48 963 187)"/>
+  <path d="M860 210L898 181L927 198L950 145L983 160L1017 121L1061 154L1092 134" fill="none" stroke="url(#line)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#73D6EE"><circle cx="898" cy="181" r="4"/><circle cx="950" cy="145" r="4"/><circle cx="1017" cy="121" r="4.5"/><circle cx="1061" cy="154" r="4"/></g>
+  <path d="M963 54V320M825 187H1101" stroke="#487B93" stroke-opacity=".24" stroke-dasharray="3 9"/>
+  <circle cx="963" cy="187" r="5" fill="#69E8D4"/>
+  <circle cx="1094" cy="112" r="5" fill="#9B8BFF"/>
+  <circle cx="820" cy="263" r="4" fill="#69E8D4"/>
+  <text x="1124" y="335" fill="#A4B9D3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" text-anchor="end" letter-spacing="1">39.93 N / 32.86 E</text>
+</g>
+<rect x="73" y="51" width="30" height="4" rx="2" fill="#69E8D4"/>
+<text x="117" y="57" fill="#A4B9D3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" font-weight="600" letter-spacing="3">SOFTWARE ENGINEER / TURKIYE</text>
+<rect x="72" y="91" width="5" height="132" rx="2.5" fill="url(#line)"/>
+<text x="96" y="148" fill="#EFF6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1">Muhammet Ahmet</text>
+<text x="94" y="217" fill="#EFF6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="73" font-weight="800" letter-spacing="-2">ARACI<tspan fill="#69E8D4">.</tspan></text>
+<text x="76" y="272" fill="#A4B9D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21">Building useful things from complex ideas.</text>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600">
+  <rect x="75" y="306" width="164" height="36" rx="10" fill="#182C43" stroke="#31526A"/>
+  <text x="157" y="329" text-anchor="middle" fill="#69E8D4">GIS + MAPS</text>
+  <rect x="250" y="306" width="158" height="36" rx="10" fill="#182C43" stroke="#31526A"/>
+  <text x="329" y="329" text-anchor="middle" fill="#EFF6FF">FULL-STACK</text>
+  <rect x="419" y="306" width="178" height="36" rx="10" fill="#182C43" stroke="#31526A"/>
+  <text x="508" y="329" text-anchor="middle" fill="#EFF6FF">DESKTOP / MOBILE</text>
+</g>
+</svg>

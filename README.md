@@ -8,9 +8,13 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/ahmet.araci/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://ahmetaraci.github.io/"><img alt="Blog and portfolio" src="https://img.shields.io/badge/Blog-%26_Portfolio-158E90?style=flat-square&logo=githubpages&logoColor=white"></a>
-<a href="mailto:muhammetahmet.araci@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email-Say_Hello-7C65C1?style=flat-square&logo=gmail&logoColor=white"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmet-araci/"><strong>💼 LinkedIn</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://ahmetaraci.com"><strong>🌐 Website</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:muhammetahmet.araci@gmail.com"><strong>✉️ Email</strong></a>
+</p>
 
 </div>
 
@@ -60,7 +64,7 @@ I enjoy working across the stack, learning by building and making technology fee
 
 **Have an interesting idea or a problem worth solving?**
 
-[Let's connect on LinkedIn](https://www.linkedin.com/in/ahmet.araci/) · [Read my writing](https://ahmetaraci.github.io/) · [Send me an email](mailto:muhammetahmet.araci@gmail.com)
+[Let's connect on LinkedIn](https://www.linkedin.com/in/ahmet-araci/) · [Visit my website](https://ahmetaraci.com) · [Send me an email](mailto:muhammetahmet.araci@gmail.com)
 
 <sub>Made with curiosity, coffee and a lot of commits. ☕</sub>
 
